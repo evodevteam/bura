@@ -230,7 +230,7 @@ public static boolean tryConsumeRebuild(double distanceSq, int compileQueueSize,
 			return Math.min(base, 1_000_000L);
 		}
 		if (avgFrameMs <= 25.0) {
-			return Math.min(base, 700_000L);
+			return Math.min(base, 700_000L); 
 		}
 		return 0L;
 	}
@@ -427,3 +427,5 @@ public static boolean canScheduleMore() {
 		IDLE
 	}
 }
+
+// hi to whoever is reading this how are you doing im bored

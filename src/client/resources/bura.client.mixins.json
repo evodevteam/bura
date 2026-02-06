@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "bura.com.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin",
+		"BuraDebugOverlayMixin",
+		"BlockEntityThrottleMixin",
+		"ChunkUploadThrottleMixin",
+		"MinecraftTickThrottleMixin",
+		"ParticleEngineThrottleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

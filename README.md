@@ -2,12 +2,6 @@
 
 **Bura** is an experimental performance mod for Minecraft that targets the underlying causes of frame-time spikes and rendering instability. Instead of only increasing average FPS, Bura focuses on improving consistency so gameplay feels smoother and more responsive.
 
-## Overview
-
-**Bura** is an experimental performance mod for Minecraft that targets the underlying causes of frame-time spikes and rendering instability. Instead of only increasing average FPS, Bura focuses on improving consistency so gameplay feels smoother and more responsive.
-
-The project explores optimizations in chunk rendering pipelines, scheduling, and visibility logic while remaining compatible with existing performance-focused mods.
-
 ***
 
 ## Project Status
